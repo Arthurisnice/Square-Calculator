@@ -1,3 +1,13 @@
 angle=0
 pos_x=0
 pos_y=0
+timer=0
+timer2=0
+timer3=0
+fast=false
+fast2=false
+fast3=false
+sqr_range=100
+deviation=sqr_range
+amount=1
+x=room_width/2+350
